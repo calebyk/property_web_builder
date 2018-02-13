@@ -1,16 +1,16 @@
 # awaiting translation
 ---
 ko:
-  aboutUs: About Us
-  address: Address
-  back: Back
-  changePassword: Change Password
+  aboutUs: 사이트 소개
+  address: 주소
+  back: 뒤로
+  changePassword: 비밀번호 변경
   contact:
-    emailSubject: Contact from your website
-    error: Sorry, there has been an error.
-    success: Thank you for your message. We will contact you soon!
-  contactUs: Contact
-  contactUsPrompt: Fill in the following form to contact us
+    emailSubject: 사이트에서 연락할 메일
+    error: 죄송합니다. 에러가 있었습니다.
+    success: 소식 감사합니다. 곧 연락드리겠습니다!
+  contactUs: 연락처
+  contactUsPrompt: 다음 항목을 기입하여 주시면, 연락드리겠습니다. 
   devise:
     user_update_success: You have successfully updated your account.
     user_update_success_title: Congratulations
